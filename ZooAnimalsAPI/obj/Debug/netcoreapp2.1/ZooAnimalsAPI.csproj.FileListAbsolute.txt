@@ -1,0 +1,14 @@
+C:\Users\Jason\source\repos\ZooAnimalsAPI\ZooAnimalsAPI\bin\Debug\netcoreapp2.1\ZooAnimalsAPI.deps.json
+C:\Users\Jason\source\repos\ZooAnimalsAPI\ZooAnimalsAPI\bin\Debug\netcoreapp2.1\ZooAnimalsAPI.runtimeconfig.json
+C:\Users\Jason\source\repos\ZooAnimalsAPI\ZooAnimalsAPI\bin\Debug\netcoreapp2.1\ZooAnimalsAPI.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\ZooAnimalsAPI\ZooAnimalsAPI\bin\Debug\netcoreapp2.1\ZooAnimalsAPI.dll
+C:\Users\Jason\source\repos\ZooAnimalsAPI\ZooAnimalsAPI\obj\Debug\netcoreapp2.1\ZooAnimalsAPI.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\ZooAnimalsAPI\ZooAnimalsAPI\obj\Debug\netcoreapp2.1\ZooAnimalsAPI.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\ZooAnimalsAPI\ZooAnimalsAPI\obj\Debug\netcoreapp2.1\ZooAnimalsAPI.RazorAssemblyInfo.cache
+C:\Users\Jason\source\repos\ZooAnimalsAPI\ZooAnimalsAPI\obj\Debug\netcoreapp2.1\ZooAnimalsAPI.RazorAssemblyInfo.cs
+C:\Users\Jason\source\repos\ZooAnimalsAPI\ZooAnimalsAPI\obj\Debug\netcoreapp2.1\ZooAnimalsAPI.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\ZooAnimalsAPI\ZooAnimalsAPI\obj\Debug\netcoreapp2.1\ZooAnimalsAPI.AssemblyInfo.cs
+C:\Users\Jason\source\repos\ZooAnimalsAPI\ZooAnimalsAPI\obj\Debug\netcoreapp2.1\ZooAnimalsAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Jason\source\repos\ZooAnimalsAPI\ZooAnimalsAPI\bin\Debug\netcoreapp2.1\ZooAnimalsAPI.pdb
+C:\Users\Jason\source\repos\ZooAnimalsAPI\ZooAnimalsAPI\obj\Debug\netcoreapp2.1\ZooAnimalsAPI.dll
+C:\Users\Jason\source\repos\ZooAnimalsAPI\ZooAnimalsAPI\obj\Debug\netcoreapp2.1\ZooAnimalsAPI.pdb
