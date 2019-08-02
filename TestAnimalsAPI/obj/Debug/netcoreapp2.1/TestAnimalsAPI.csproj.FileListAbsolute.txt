@@ -1,0 +1,14 @@
+C:\Users\Jason\source\repos\ZooAnimalsAPI\TestAnimalsAPI\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Jason\source\repos\ZooAnimalsAPI\TestAnimalsAPI\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Jason\source\repos\ZooAnimalsAPI\TestAnimalsAPI\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Jason\source\repos\ZooAnimalsAPI\TestAnimalsAPI\bin\Debug\netcoreapp2.1\TestAnimalsAPI.deps.json
+C:\Users\Jason\source\repos\ZooAnimalsAPI\TestAnimalsAPI\bin\Debug\netcoreapp2.1\TestAnimalsAPI.runtimeconfig.json
+C:\Users\Jason\source\repos\ZooAnimalsAPI\TestAnimalsAPI\bin\Debug\netcoreapp2.1\TestAnimalsAPI.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\ZooAnimalsAPI\TestAnimalsAPI\bin\Debug\netcoreapp2.1\TestAnimalsAPI.dll
+C:\Users\Jason\source\repos\ZooAnimalsAPI\TestAnimalsAPI\bin\Debug\netcoreapp2.1\TestAnimalsAPI.pdb
+C:\Users\Jason\source\repos\ZooAnimalsAPI\TestAnimalsAPI\obj\Debug\netcoreapp2.1\TestAnimalsAPI.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\ZooAnimalsAPI\TestAnimalsAPI\obj\Debug\netcoreapp2.1\TestAnimalsAPI.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\ZooAnimalsAPI\TestAnimalsAPI\obj\Debug\netcoreapp2.1\TestAnimalsAPI.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\ZooAnimalsAPI\TestAnimalsAPI\obj\Debug\netcoreapp2.1\TestAnimalsAPI.AssemblyInfo.cs
+C:\Users\Jason\source\repos\ZooAnimalsAPI\TestAnimalsAPI\obj\Debug\netcoreapp2.1\TestAnimalsAPI.dll
+C:\Users\Jason\source\repos\ZooAnimalsAPI\TestAnimalsAPI\obj\Debug\netcoreapp2.1\TestAnimalsAPI.pdb
